@@ -1,0 +1,492 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	 
+}
+
+.white,.blue,.circle,.circles,
+.gray,.bg-image,.ellipse,.navy-blue,
+.frame1,.frame2,.frame3,.frame4,.frame5
+,.frame6,.frame7,.frame8{
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.white{
+	background-image: url("../images/white.png");
+	height: 1024px;
+	
+}
+
+.blue{
+	background-image: url("../images/blue.png");
+	height: 1024px;
+	
+}
+
+.logo{
+	font-size: 25px;
+	font-weight: 800;
+}
+
+.paragraph-logo{
+	font-size: 18px;
+	font-weight: 700;
+	color: gray;
+}
+
+span{
+	color: #606060;
+}
+
+.circle{
+	background-image: url("../images/circle.png");
+	height: 620px;
+	width: 620px;
+	margin-left: -325px;
+	margin-top: 200px;
+}
+
+.circle-content{
+	padding-top: 120px;	
+}
+
+.paragraph-content1{
+	font-size: 32px;
+	font-weight: 700;
+}
+
+ .paragraph-content2{
+	font-size: 40px;
+	font-weight: 800;
+}
+
+.header-card{
+	margin-top: 100px;
+	font-size: 32px;
+	font-weight: 700;
+}
+
+.team-card1{
+	margin-top: 450px;
+}
+
+.team-card2{
+	margin-top: 400px;
+}
+
+.paragraph-card1,
+.input1,.paragraph-ellipse2{
+	font-size: 16px;
+	font-weight: 400;
+}
+
+.paragraph-card2,h2.header-gray,
+.paragraph-input-circle1{
+	font-size: 32px;
+	font-weight: 700;
+}
+
+.button-card,
+.button-input{
+	background: #007bff;
+	color: white;
+	font-size: 18px;
+	font-weight: 700;
+	padding: 10px 20px;
+	border-radius: 10px;
+}
+
+.button-card1{
+	background: #007bff;
+	color: white;
+	font-size: 24px;
+	font-weight: 800;
+	padding: 4px 20px;
+	border-radius: 10px;
+}
+
+.circles{
+	background-image: url("../images/background.jpg");
+	height: 738px;
+	margin-top: 100px;
+}
+
+.content-circles{
+	padding-top: 200px;
+	margin-right: 80px;
+}
+
+.header-circles{
+	font-size: 40px;
+	font-weight: 800;
+}
+
+.paragraph-circles,
+.paragraph-input-circle2,
+.input2{
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.gray{
+	background-image: url("../images/gray.png");
+	height: 960px;
+}
+
+h5.header-gray{
+	font-size: 18px;
+	font-weight: 400;
+	margin-top: 58px;
+}
+
+
+.paragraph-gray{
+	font-size: 18px;
+	font-weight: 400;
+	margin-top: 32px;
+}
+
+.paragraph-gray1,
+.footer-end{
+	font-size: 12px;
+	font-weight: 600;
+}
+
+.gray-card1{
+	margin-top: 250px;
+}
+
+.gray-card2{
+	margin-top: 200px;
+}
+
+.bulb-image{
+	background-image: url("../images/bulb.png");
+	height: 874px;
+}
+
+.input-frame{
+	background-image: url("../images/input-frame.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 760px;
+	width: 760px;
+	margin: auto;
+	margin-top: 100px;
+}
+
+
+.input-frame-content{
+	padding-top: 60px;
+}
+
+.input1,
+.input2{
+	border-radius: 12px;
+}
+
+.input1{
+	border: 1px solid #068be9;
+}
+
+.input2{
+	border:3px solid transparent;
+	background: linear-gradient(#fff,#fff) padding-box,
+ 	linear-gradient(231.38deg, #7d42ff -5.3%, #08fcff 119.03%) border-box;
+}
+
+
+.header-ellipse,
+.header-carousel{
+	font-size: 32px;
+	font-weight: 700;
+	margin-top: 100px;
+}
+
+.ellipse{
+	background-image: url("../images/ellipse.png");
+	height: 600px;
+}
+
+.ellipse-card{
+	background: white;
+	text-align: center;
+	margin-top: 70px;
+	height: 336px;
+	padding: 80px 20px;
+	border:3px solid transparent;
+	background: linear-gradient(#fff,#fff) padding-box,
+ 	linear-gradient(231.38deg, #7d42ff -5.3%, #08fcff 119.03%) border-box;
+}
+
+.paragraph-ellipse1{
+	font-size: 24px;
+	font-weight: 600;
+}
+
+.carousel-indicators li{
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+	background-color: #243f60;
+}
+
+.carousel-indicators{
+	margin-bottom: -60px;
+}
+
+.content-carousel{
+	padding-bottom: 550px;
+	font-size: 112px;
+	color: #faad01;
+}
+
+.frame1{
+	background-image: url("../images/Frame 1.png");
+	height: 317px;
+}
+
+.frame2{
+	background-image: url("../images/Frame 2.png");
+	height: 317px;
+}
+
+.frame3{
+	background-image: url("../images/Frame 3.png");
+	height: 317px;
+}
+
+.frame4{
+	background-image: url("../images/Frame 4.png");
+	height: 317px;
+}
+
+.frame5{
+	background-image: url("../images/Frame 5.png");
+	height: 317px;
+}
+
+.frame6{
+	background-image: url("../images/Frame 6.png");
+	height: 317px;
+}
+
+.frame7{
+	background-image: url("../images/Frame 7.png");
+	height: 317px;
+}
+
+.frame8{
+	background-image: url("../images/Frame 1.png");
+	height: 317px;
+}
+	
+
+.navy-blue{
+	background-image: url("../images/navy-blue.png");
+	height: 410px;
+	margin-top: 100px;
+}
+
+.amblem{
+	height: 67px;
+	width: 67px;
+}
+
+.paragraph-footer1{
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.paragraph-footer2{
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.contact{
+	margin-top: 125px;
+}
+
+.links{
+	margin-top: 125px;
+}
+
+
+
+/*------------------------ media query for desktop end--------------*/
+
+
+
+
+@media screen and (max-width: 426px){
+	.logo,.paragraph-logo{
+		display: none;
+	}
+
+	.logo-img{
+		margin-right: 150px;
+	}
+
+	.circle{
+		background-image: none;
+	}
+
+	.circle-position{
+		position: relative;
+	}
+	
+	.circle-content{
+		position: absolute;
+		top: -200px;		
+	}
+
+	.paragraph-content1,
+	.paragraph-content2{
+		color: #0a0a0a;
+	}
+
+	.paragraph-content1,
+	.paragraph-card2,
+	.header-ellipse,
+	.header-carousel,
+	.paragraph-input-circle1{
+		font-size: 20px;
+	}
+
+	.paragraph-content2,
+	.header-circles{
+		font-size: 24px;
+	}
+
+	.vector-img{
+		background: #243f60;
+	}
+
+	.white,.blue{
+		height: 400px;
+	}
+
+	.header-card{
+		font-size: 20px;
+		margin-top: 20px;
+	}
+
+	.paragraph-card1,
+	.button-card,
+	.button-card1,
+	.paragraph-gray,
+	.paragraph-ellipse2,
+	.paragraph-circles{
+		font-size: 14px;
+	}
+
+	.button-card1{
+		padding: 20px 100px;
+	}
+
+
+	.card-second{
+		margin-top: 20px;
+	}
+
+	.card-third{
+		display: none;
+	}
+
+	.team-card1{
+		margin-top: 500px;
+	}
+
+	.circles{
+		height: 467px;
+		margin-top: 50px;
+		background-position: right !important;
+	}
+
+	.content-circles{
+		width: 100%;
+		padding-top: 20px;
+	}
+
+	.gray{
+		height: 1400px;
+	}
+
+	.gray-image{
+		height: 500px;
+	}
+
+	.card-gray2{
+		margin-top: 20px;	
+	}
+
+	h2.header-gray{
+		font-size: 20px;
+	}
+
+	.gray-card1,
+	.gray-card2{
+		margin-top: 300px;
+	}
+
+	
+	.bulb-image{
+		background: #243f60;
+		margin-top: 20px;
+		height: 600px;
+	}
+
+	.input-frame{
+		background-image: none;
+	}
+
+	.input-frame-content{
+		padding-top: 0;
+		width: 50%;
+	}
+
+	.paragraph-input-circle2{
+		font-size: 18px;
+	}
+
+	.input1,.input2{
+		width: 50%;
+	}
+
+	.button-input{
+		width: 20%;
+	}
+
+	.ellipse{
+		height: 1450px;
+	}
+
+	.paragraph-ellipse1{
+		font-size: 18px;
+	}
+
+	.ellipse-card{
+		height: 278px;
+		border:4px solid transparent;
+	}
+
+	.header-carousel{
+		margin-top: 20px;
+	}
+
+	.navy-blue{
+		height: 642px;
+	}
+
+	.contact,
+	.links{
+		margin-top: 30px;
+	}
+
+	.paragraph-footer2{
+		margin-top: 0px !important;
+	}
+
+
+}
